@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Zawaad 🌱🌱
+<a href="https://www.linkedin.com/in/zawaadshamim/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**zaw44d/zaw44d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Overview
 
-Here are some ideas to get you started:
+I am an aspiring Cybersecurity SOC Analyst with a deep interest for Digital Forensics and Threat Intelligence. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+I have been unsure with what field I should go into since I was in High School/Secondary School. When I started looking into coding and dug deeper into a rabbit hole of cybersecurity in 2024, I have been researching a path into it and the best course of action while building the fundamentals from the ground up. I now look towards joining a SOC as a Tier 1 Analyst 😁
+
+## Projects
+
+| Projects                                      | Links       |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SOC Level 1 Triage & Escalation Project       | <a href="https://google.com">Detection Lab</a>|
+| Agentic AI SOC Analyst                        | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Malware Analysis and Threat Detection Logic   | SOC Automation Lab|
+| Identity and Access Management                | SOC Automation Lab|
+
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+
