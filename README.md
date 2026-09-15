@@ -13,12 +13,12 @@ I have been unsure with what field I should go into since I was in High School/S
 
 | Projects                                      | Links       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| SOC Level 1 Triage & Escalation Project       | <a href="https://google.com">Detection Lab</a>|
-| Agentic AI SOC Analyst                        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Malware Analysis and Threat Detection Logic   | SOC Automation Lab|
-| Identity and Access Management                | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Underconstruction</a>|
+| SOC Level 1 Triage & Escalation Project       | Underconstruction|
+| Agentic AI SOC Analyst                        | Underconstruction|
+| Incident Response Planning and Execution      | Underconstruction|
+| Malware Analysis and Threat Detection Logic   | Underconstruction|
+| Identity and Access Management                | Underconstruction|
 
 
 ## Certifications
