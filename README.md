@@ -3,7 +3,7 @@
 
 # Overview
 
-I am an aspiring Cybersecurity SOC Analyst with a deep interest for Digital Forensics and Threat Intelligence. 
+I am an aspiring Cybersecurity SOC Analyst with a deep interest for Digital Forensics, Threat Intelligence, and Detection Engineering. 
 
 ## Objective
 
