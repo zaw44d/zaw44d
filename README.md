@@ -17,7 +17,7 @@ I have been unsure with what field I should go into since I was in High School/S
 | SOC Level 1 Triage & Escalation Project       | Underconstruction|
 | Agentic AI SOC Analyst                        | Underconstruction|
 | Incident Response Planning and Execution      | Underconstruction|
-| Malware Analysis and Threat Detection Logic   | Underconstruction|
+| Malware Analysis and Threat Detection Logic   | <a href="https://github.com/zaw44d/Poison-Ivy-RAT-Analysis-Logic">RAT Analysis & Detection Logic |
 | Identity and Access Management                | Underconstruction|
 | Homemade AntiVirus                            | <a href="https://github.com/zaw44d/Simple-AntiVirus-Python-">Python Based AV</a>|
 
