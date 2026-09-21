@@ -14,10 +14,10 @@ I have been unsure with what field I should go into since I was in High School/S
 | Projects                                      | Links       |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Underconstruction</a>|
-| SOC Level 1 Triage & Escalation Project       | Underconstruction|
+| SOC Level 1 Triage & Escalation Project       |<a href="https://github.com/zaw44d/FullSOCShift">Simulated SOC Analyst Shift</a>|
 | Agentic AI SOC Analyst                        | Underconstruction|
 | Incident Response Planning and Execution      | Underconstruction|
-| Malware Analysis and Threat Detection Logic   | <a href="https://github.com/zaw44d/Poison-Ivy-RAT-Analysis-Logic">RAT Analysis & Detection Logic |
+| Malware Analysis and Threat Detection Logic   | <a href="https://github.com/zaw44d/Poison-Ivy-RAT-Analysis-Logic">RAT Analysis & Detection Logic</a>|
 | Identity and Access Management                | Underconstruction|
 | Homemade AntiVirus                            | <a href="https://github.com/zaw44d/Simple-AntiVirus-Python-">Python Based AV</a>|
 | Vulnerability Scanner                         | <a href="https://github.com/zaw44d/autovulnscannah">Python Based Vulnerability Scanner</a>|
