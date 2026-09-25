@@ -13,7 +13,6 @@ I have been unsure with what field I should go into since I was in High School/S
 
 | Projects                                      | Links       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Underconstruction</a>|
 | SOC Level 1 Triage & Escalation Project       |<a href="https://github.com/zaw44d/FullSOCShift">Simulated SOC Analyst Shift</a>|
 | Agentic AI SOC Analyst                        | Underconstruction|
 | Incident Response Planning and Execution      | Underconstruction|
