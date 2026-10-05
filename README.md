@@ -17,7 +17,7 @@ I have been unsure with what field I should go into since I was in High School/S
 | Agentic AI SOC Analyst                        | Underconstruction|
 | Incident Response Planning and Execution      | Underconstruction|
 | Malware Analysis and Threat Detection Logic   | <a href="https://github.com/zaw44d/Poison-Ivy-RAT-Analysis-Logic">RAT Analysis & Detection Logic</a>|
-| Identity and Access Management                | Underconstruction|
+| Identity and Access Management                | <a href="https://github.com/zaw44d/TryHackMeWriteUps/blob/main/Write-Ups/THM%20Identity%20and%20Access%20Mangement.md">IAM Write-up</a>|
 | Homemade AntiVirus                            | <a href="https://github.com/zaw44d/Simple-AntiVirus-Python-">Python Based AV</a>|
 | Vulnerability Scanner                         | <a href="https://github.com/zaw44d/autovulnscannah">Python Based Vulnerability Scanner</a>|
 | TryHackMe Write Ups                           | <a href="https://github.com/zaw44d/TryHackMeWriteUps">Various Write Ups</a>|
